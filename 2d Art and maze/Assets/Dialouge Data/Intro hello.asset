@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d583ca2e487412f4abd869f2ec547ecb, type: 3}
+  m_Name: Intro hello
+  m_EditorClassIdentifier: 
+  dialouge:
+  - "Hello there.\n WAIT WHAT?!  \n(Press Spacebar)"
+  - How are you here? We haven't brought in enemies and we are still taking items
+    out of storage. I swear if this was upper middle managment pulling some bulshit
+    well i oughta....
+  - Anywho, P to pick up torches, R to drop, Left Shift to Shimmy, B to open and
+    close your book and E to open Chests. Feel free to explore just don't break anything.
